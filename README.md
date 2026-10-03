@@ -37,8 +37,13 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
