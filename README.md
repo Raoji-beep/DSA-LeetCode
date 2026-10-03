@@ -7,6 +7,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -20,6 +21,7 @@ All My Details of My Leetcode Profile
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -36,6 +38,7 @@ All My Details of My Leetcode Profile
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
