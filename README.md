@@ -10,6 +10,7 @@ All My Details of My Leetcode Profile
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -19,6 +20,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,5 +54,10 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
