@@ -20,6 +20,7 @@ All My Details of My Leetcode Profile
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
@@ -32,6 +33,7 @@ All My Details of My Leetcode Profile
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@ All My Details of My Leetcode Profile
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -62,4 +65,8 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
