@@ -8,6 +8,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -73,6 +74,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
