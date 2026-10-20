@@ -57,6 +57,7 @@ All My Details of My Leetcode Profile
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
