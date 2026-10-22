@@ -13,6 +13,7 @@ All My Details of My Leetcode Profile
 | [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
@@ -64,6 +65,7 @@ All My Details of My Leetcode Profile
 | [0009-palindrome-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -72,6 +74,7 @@ All My Details of My Leetcode Profile
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0258-add-digits) |
 ## Sorting
 |  |
@@ -111,4 +114,20 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
