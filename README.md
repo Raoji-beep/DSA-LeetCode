@@ -7,6 +7,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ All My Details of My Leetcode Profile
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
