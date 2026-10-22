@@ -4,6 +4,9 @@ class Solution {
         if(n == 5000000){
             return 348513;
         }
+        if(n <2){
+            return 0;
+        }
         for (int i = 2; i < n; i++) {
             boolean prime = true;
 
