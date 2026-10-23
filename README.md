@@ -20,12 +20,14 @@ All My Details of My Leetcode Profile
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
