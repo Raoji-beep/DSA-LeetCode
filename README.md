@@ -50,6 +50,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0058-length-of-last-word](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0709-to-lower-case) |
@@ -63,6 +64,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0072-edit-distance) |
 ## Math
 |  |
 | ------- |
