@@ -8,6 +8,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0001-two-sum](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@ All My Details of My Leetcode Profile
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Enumeration
 |  |
