@@ -53,6 +53,7 @@ All My Details of My Leetcode Profile
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
@@ -104,6 +105,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
@@ -139,4 +141,12 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
