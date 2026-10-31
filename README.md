@@ -18,6 +18,7 @@ All My Details of My Leetcode Profile
 | [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
@@ -130,6 +131,7 @@ All My Details of My Leetcode Profile
 | [0033-search-in-rotated-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -154,4 +156,8 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
