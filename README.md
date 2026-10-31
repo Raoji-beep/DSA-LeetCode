@@ -23,6 +23,7 @@ All My Details of My Leetcode Profile
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
