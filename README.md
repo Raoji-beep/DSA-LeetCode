@@ -22,6 +22,7 @@ All My Details of My Leetcode Profile
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -120,6 +121,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
 | ------- |
