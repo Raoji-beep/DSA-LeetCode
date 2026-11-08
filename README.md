@@ -13,6 +13,7 @@ All My Details of My Leetcode Profile
 | [0035-search-insert-position](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0053-maximum-subarray](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
