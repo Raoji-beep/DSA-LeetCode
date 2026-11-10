@@ -18,6 +18,7 @@ All My Details of My Leetcode Profile
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +100,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0015-3sum](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
@@ -116,6 +118,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
