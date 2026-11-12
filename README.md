@@ -24,6 +24,7 @@ All My Details of My Leetcode Profile
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -102,6 +103,7 @@ All My Details of My Leetcode Profile
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1051-height-checker) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +137,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +173,8 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
