@@ -19,6 +19,7 @@ All My Details of My Leetcode Profile
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@ All My Details of My Leetcode Profile
 | [0075-sort-colors](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -116,6 +118,7 @@ All My Details of My Leetcode Profile
 | ------- |
 | [0067-add-binary](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +147,7 @@ All My Details of My Leetcode Profile
 | [0033-search-in-rotated-sorted-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Enumeration
 |  |
@@ -177,4 +181,12 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1051-height-checker) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
