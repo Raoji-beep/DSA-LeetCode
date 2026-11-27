@@ -36,6 +36,7 @@ All My Details of My Leetcode Profile
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@ All My Details of My Leetcode Profile
 | [2235-add-two-integers](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
