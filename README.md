@@ -34,6 +34,7 @@ All My Details of My Leetcode Profile
 | [1550-three-consecutive-odds](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
@@ -164,6 +165,7 @@ All My Details of My Leetcode Profile
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raoji-beep/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
 | ------- |
